@@ -15,7 +15,3 @@ The system updates attendance automatically, ensuring accuracy, and features a w
 2. After that you have to install face_recognition and Flask in your Pc using pip.
 3. You have to create a storage and Information in Firebase , storage for storing image of each student and Information for details of each student.
 4. Then take a link and use in the code of your files.
-
-## Screenshot
-
-![Screenshot 2024-01-24 233708](https://github.com/Akash8292/Facial-Attendance-Tracking-System/assets/97883391/c81a545e-1da9-4db9-a86f-833da696981b)
